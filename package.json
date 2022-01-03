@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leon-Africa/flashswap-hardhat.git"
+    "url": "git+https://github.com/ronert2640/flashswap-hardhat.git"
   },
   "keywords": [
     "hardhat",
@@ -18,9 +18,9 @@
   "author": "Leon Africa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Leon-Africa/flashswap-hardhat/issues"
+    "url": "https://github.com/ronert2640/flashswap-hardhat/issues"
   },
-  "homepage": "https://github.com/Leon-Africa/flashswap-hardhat#readme",
+  "homepage": "https://github.com/ronert2640/flashswap-hardhat#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
